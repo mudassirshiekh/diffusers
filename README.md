@@ -40,6 +40,7 @@ limitations under the License.
 We recommend installing 🤗 Diffusers in a virtual environment from PyPI or Conda. For more details about installing [PyTorch](https://pytorch.org/get-started/locally/) and [Flax](https://flax.readthedocs.io/en/latest/#installation), please refer to their official documentation.
 
 ### PyTorch
+## By Mudassir Alam
 
 With `pip` (official package):
 
